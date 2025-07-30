@@ -1,1 +1,9 @@
 /node_modules
+# If node_modules was already tracked, run these commands:
+# git rm -r --cached node_modules
+# git commit -m "Remove node_modules from tracking"
+# git push
+# To fix large changes caused by node_modules being tracked, run:
+# git rm -r --cached node_modules
+# git commit -m "Remove node_modules from git tracking"
+# git push
